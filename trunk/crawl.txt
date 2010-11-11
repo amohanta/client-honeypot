@@ -1,0 +1,16 @@
+http://www.facebook.com
+http://www.facebook.com/
+http://www.facebook.com/reset.php
+http://www.facebook.com/policy.php
+http://www.facebook.com/terms.php
+http://www.facebook.com/ajax/reg_birthday_help.php
+http://www.facebook.com/campaign/landing.php?placement=pghm&campaign_id=372931622610&extra_1=0
+http://www.facebook.com/badges/?ref=pf
+http://www.facebook.com/mobile?ref=pf
+http://www.facebook.com/ajax/intl/language_dialog.php?uri=http%3A%2F%2Fwww.facebook.com%2F&source=TOP_LOCALES_DIALOG
+http://www.facebook.com/careers/?ref=pf
+http://www.facebook.com/find-friends?ref=pf
+http://www.facebook.com/privacy/explanation.php
+http://www.facebook.com/terms.php?ref=pf
+http://www.facebook.com/help/?ref=pf
+http://www.facebook.com/campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=0
