@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="avalon-framework-4.2.0.jar"/>
+	<classpathentry kind="lib" path="avalon.jar"/>
+	<classpathentry kind="lib" path="javax.jms.jar"/>
+	<classpathentry kind="lib" path="jericho-html-3.1.jar"/>
+	<classpathentry kind="lib" path="jopt-simple-3.2-rc1.jar"/>
+	<classpathentry kind="lib" path="junit-4.1.jar"/>
+	<classpathentry kind="lib" path="log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="slf4j-simple-1.6.1.jar"/>
+	<classpathentry kind="lib" path="sqlite-jdbc-3.7.2.jar"/>
+	<classpathentry kind="lib" path="sqlite.jar"/>
+	<classpathentry kind="lib" path="websphinx.jar"/>
+	<classpathentry kind="lib" path="weka.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
