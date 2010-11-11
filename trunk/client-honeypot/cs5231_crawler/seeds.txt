@@ -1,3 +1,0 @@
-http://localhost:8083/family/index.html
-http://localhost:8083/lake/index.html
-http://localhost:8083/security/index.html
